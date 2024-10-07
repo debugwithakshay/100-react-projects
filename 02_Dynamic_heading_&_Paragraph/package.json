@@ -1,5 +1,5 @@
 {
-  "name": "1-hello--world",
+  "name": "02-dynamic-heading-paragraph",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,7 +9,7 @@
     "lint": "eslint .",
     "preview": "vite preview"
   },
-  "dependencies": {
+"dependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
