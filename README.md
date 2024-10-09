@@ -1,7 +1,7 @@
 # 100-react-projects
 
-<!-- Image Credit to Halo Labs from Dribbble -->
-![Banner Image](https://cdn.dribbble.com/userupload/16744137/file/original-ddf6650ad6b5c360f3eb7678178b614c.png?resize=1024x768)
+<!-- Image Credit to Crio.do -->
+![Banner Image](https://www.crio.do/blog/content/images/2021/03/Javascript-projects--React.png)
 
 
 ## Why this Repository🤔?
